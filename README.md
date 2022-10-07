@@ -15,7 +15,7 @@ see [an example](launchSkyrim.sh) to get started; for further info on getting st
 to load mods into vfs use:
 ```./onLoad.py```
 
-to unload mods and check for changes use:
+after that, to unload mods and check for changes use:
 ```./unUnload.py```
 
   
