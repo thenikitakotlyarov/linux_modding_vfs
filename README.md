@@ -11,6 +11,11 @@ see [an example](launchSkyrim.sh) to get started
 
 [fix](rename.py) for case-senstivity related file conflicts is included
 
+to load mods into vfs use:
+```./onLoad.py```
+
+to unload mods and check for changes use:
+```./unUnload.py```
 
 
 
