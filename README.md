@@ -5,7 +5,7 @@
 see [an example](launchSkyrim.sh) to get started
 
 
-[settings](settings.py) will need to be configured
+[settings](settings.py) will need to be configured; highly recommended to read throught comments
 
 [helpers](init.py) are useful to look through/use elsewhere
 
