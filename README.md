@@ -2,7 +2,8 @@
 ### a virtual file system utility script toolbag for establishing, tracking, and running modded gaming setups on linux.
 
 
-see [an example](launchSkyrim.sh) to get started
+see [an example](launchSkyrim.sh) to get started; for further info on getting started please check [this wiki page](https://github.com/thenikitakotlyarov/linux_modding_vfs/wiki/settings.py)
+
 
 
 [settings](settings.py) will need to be configured; highly recommended to read through the comments
@@ -17,6 +18,15 @@ to load mods into vfs use:
 to unload mods and check for changes use:
 ```./unUnload.py```
 
+  
+  
+  
+
+
+
+  
+  
+  
 
 
 *happy modding~!*
